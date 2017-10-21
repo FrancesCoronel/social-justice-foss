@@ -29,26 +29,33 @@ Our presentation is hosted through Google Slides.
 
 ## Our Contributions
 
-- [First Aide iOS](https://github.com/systers/FirstAide-iOS)
-- [Jail Dash](https://github.com/codeforamerica/jail-dash)
-- [Women Who Code Guidelines & Resources](https://github.com/WomenWhoCode/guidelines-resources)
+- [Angela](https://github.com/bjyanj)
+- [Ayuna](https://github.com/ayunav)
+  - [First Aide iOS](https://github.com/systers/FirstAide-iOS)
+  - [Power Up iOS](https://github.com/systers/powerup-iOS)
+- [Frances](https://github.com/fvcproductions)
+  - [Women Who Code Guidelines & Resources](https://github.com/WomenWhoCode/guidelines-resources)
+  - [Girl Develop It Website](https://github.com/girldevelopit/gdi-website)
+  - [freeCodeCamp Guides](https://github.com/freeCodeCamp/guides#article-style-guide)
+- [Katharina](https://github.com/roesler-stan)
+  - [Jail Dash](https://github.com/codeforamerica/jail-dash)
+- [Punita](https://github.com/palomagirl)
+- [Rebecca](https://github.com/flyylikeaduck)
+  - [Jail Dash](https://github.com/codeforamerica/jail-dash)
 
-## Tools
+## Technologies
 
-Give an overview of what tools were used to create the project (exclude languages as these can be seen on GitHub)
+We used the following technologies when contributing to these projects!
 
-- [GitHub Pages](https://pages.github.com)
-- [Google Analytics](https://analytics.google.com)
+- Docker
+- HTML/CSS/JS
+- Markdown
 
 ## Team
 
-- [Angela](https://github.com/bjyanj)
-- [Ayuna Vogel](https://github.com/ayunav)
-- [Frances Coronel](https://github.com/fvcproductions)
-- [Katharina](https://github.com/roesler-stan)
-- [Mykola](https://github.com/kolya182)
-- [Punita](https://github.com/palomagirl)
-- [Rebecca](https://github.com/flyylikeaduck)
+![Angela](https://avatars2.githubusercontent.com/u/32986369?s=460&v=4) | ![Ayuna](https://avatars0.githubusercontent.com/u/12476189?s=460&v=4) | ![Frances](https://avatars0.githubusercontent.com/u/4284691?s=460&v=4) | ![Punita](https://avatars0.githubusercontent.com/u/8722679?s=460&v=4) | ![Becca Chen](https://avatars2.githubusercontent.com/u/25538546?s=460&v=4) | ![Katharina](https://avatars2.githubusercontent.com/u/9511490?s=460&v=4)
+|---|---|---|---|---|---|---|
+[Angela](https://github.com/bjyanj) | [Ayuna](https://github.com/ayunav) | [Frances](https://github.com/fvcproductions) | [Punita](https://github.com/palomagirl) | [Rebecca](https://github.com/flyylikeaduck) | [Katharina](https://github.com/roesler-stan)
 
 ## References
 
