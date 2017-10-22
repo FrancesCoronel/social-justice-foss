@@ -24,10 +24,10 @@ Our presentation is hosted through Google Slides.
 
 ## Goals
 
-- [ ] create presentation showcasing contributions
-- [ ] everyone learns how to contribute to F/OSS
-- [ ] at least one contribution per team member
-- [ ] showcase of contributions through this `README`
+- [x] create presentation showcasing contributions
+- [x] everyone learns how to contribute to F/OSS
+- [x] at least one contribution per team member
+- [x] showcase of contributions through this `README`
 
 ## Judging Criteria
 
@@ -82,8 +82,8 @@ This project encourages the conceptualization of free open-source software (`F/O
 ## Team
 
 | ![Ayuna](https://avatars0.githubusercontent.com/u/12476189?s=460&v=4) | ![Frances](https://avatars0.githubusercontent.com/u/4284691?s=460&v=4) | ![Punita](https://avatars0.githubusercontent.com/u/8722679?s=460&v=4) | ![Becca Chen](https://media.licdn.com/media/AAIA_wDGAAAAAQAAAAAAAAyLAAAAJGVmNWI2ZWU0LTYxNDktNDcxYy05OGY2LTQ5NTExYjFhYjE0NA.jpg) | ![Katharina](https://avatars2.githubusercontent.com/u/9511490?s=460&v=4) |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Ayuna](https://github.com/ayunav) | [Frances](https://github.com/fvcproductions) | [Punita](https://github.com/palomagirl) | [Rebecca](https://github.com/flyylikeaduck) | [Katharina](https://github.com/roesler-stan) (Mentor) |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Ayuna](https://github.com/ayunav) | [Frances](https://github.com/fvcproductions) | [Punita](https://github.com/palomagirl) | [Rebecca](https://github.com/flyylikeaduck) | [Katharina](https://github.com/roesler-stan) |
 
 ## References
 
