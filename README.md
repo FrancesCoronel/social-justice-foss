@@ -45,18 +45,20 @@ By contributing to open-source projects that are already being actively used by 
 
 #### Contributions
 
-We contributed to 6 different open-source projects.
+We contributed to 6 different open-source projects (links to PRs opened during the hackathon).
 
 - [First Aide iOS](https://github.com/systers/FirstAide-iOS)
   - Mobile app for Peace Corp volunteers so they can readily have access to report or gain information on Peace Corps Safety and Security procedures.
-- [freeCodeCamp Guides](https://github.com/freeCodeCamp/guides#article-style-guide)
+- [freeCodeCamp Guides](https://github.com/freeCodeCamp/guides/pull/2841)
   - A collection of easy-to-understand guides to programming tools
-- [Girl Develop It Website](https://github.com/girldevelopit/gdi-website)
+- [Girl Develop It Website](https://github.com/girldevelopit/gdi-website/pull/587)
   - This is the official repository for the Girl Develop It website.
-- [Women Who Code Guidelines & Resources](https://github.com/WomenWhoCode/guidelines-resources)
-  - Where Women Who Code chapters will gather resources and guidelines for WWC chapters.
-- [Jail Dash](https://github.com/codeforamerica/jail-dash)
+- [Jail Dash](https://github.com/codeforamerica/jail-dash/pull/36)
   - A tool to help jail administrators, judges, and other stakeholders understand the conditions in metro jails, and use this data to visualize how their decisions–at both the individual and policy level–affect program, facility, and inmate outcomes.
+- [Mentorships for Women in Technology](https://github.com/PoojaB26/Mentorships-for-Women-in-Technology/pull/2)
+  - A curated list of the technical mentorships, internships specially organized for women.
+- [Women Who Code Guidelines & Resources](https://github.com/WomenWhoCode/guidelines-resources/pull/54)
+  - Where Women Who Code chapters will gather resources and guidelines for WWC chapters.
 
 #### Technologies Used
 
